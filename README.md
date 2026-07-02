@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Md+Jahangeer;Full+Stack+Developer;AI%2FML+Enthusiast;Data+Structures+%26+Algorithms;Building+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Md+Jahangeer; />
 </p>
 
 <h3 align="center">
@@ -112,12 +112,6 @@ I'm a **B.Tech CSE student (Class of 2027)** with a passion for **Software Devel
 # 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahangeer4002&theme=tokyo-night)](https://github.com/Jahangeer4002)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Jahangeer4002&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
