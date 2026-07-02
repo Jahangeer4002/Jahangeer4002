@@ -1,18 +1,14 @@
-<!-- Header -->
-<h1 align="center">
-  Hi 👋, I'm Md Jahangeer
-</h1>
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Md+Jahangeer" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-  B.Tech CSE Student (Class of 2027)
+B.Tech CSE Student (Class of 2027) | Full Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jahangeer4002&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Jahangeer4002&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
