@@ -15,8 +15,6 @@ B.Tech CSE Student (Class of 2027) | Full Stack Developer | AI/ML Enthusiast
 
 # 💫 About Me
 
-Hi, I'm **Md Jahangeer** 👋
-
 I'm a **B.Tech CSE student (Class of 2027)** with a passion for **Software Development, Artificial Intelligence, and building impactful solutions**.
 
 - 💻 Passionate about developing scalable and impactful software solutions
